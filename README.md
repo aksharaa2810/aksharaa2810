@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Aksharaa!
 
-<!--
-**aksharaa2810/aksharaa2810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI Engineering Student  
+💡 Passionate about AI, Algorithms & Software Development  
+🚀 Always learning and building new things  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+- 🌱 Currently learning: AI, Data Structures & Algorithms  
+- 💻 Interested in: Software Development, Cloud Computing  
+- 🎯 Goal: To build impactful and innovative tech solutions  
+- ⚡ Fun fact: I love solving problems and exploring new technologies  
+
+---
+
+## 🛠️ Skills
+- Programming Languages: C, C++, Java, Python  
+- Web: HTML, CSS, JavaScript  
+- Tools & Technologies: Git, GitHub, VS Code  
+
+---
+
+## 📂 Projects
+Here are some of my projects:
+
+🔹 **AI Attendance System**  
+- Face recognition-based smart attendance system  
+
+🔹 **Algorithm Implementations**  
+- Knapsack, Huffman Coding, Matrix Chain Multiplication  
+
+🔹 **Sensor-based Applications**  
+- Environmental monitoring using micro/nano sensors  
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: akshu28102006@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/aksharaa-ak-7a1a38360?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+---
+
+⭐ *"Code. Learn. Improve. Repeat."*
